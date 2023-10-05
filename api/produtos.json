@@ -1,0 +1,109 @@
+{
+  "produtos": [
+    {
+      "id": 4,
+      "title": "Cabo Adaptador OTG Tipo-C Usb C Compatível Samsung Pen Drive",
+      "description": "OTG ADAPTADOR TIPO-C MACHO PARA USB FÊMEA é compatível com dispositivos com entrada TIPO C. Pode ser usado para conectar dispositivos USB ao seu celular. Como Teclado, Mouse, Controle para Jogos com cabo USB, Impressoras e outros dispositivos USB. Suporta carregamento e transferência de dados. Pode ser usado também como adaptador para o seu cabo USB conectar a uma fonte com saída USB-C (Tipo C). OBS: Este adaptador funciona somente em celulares que suportam a função OTG. Verificar antes, se o seu celular é compatível.",
+      "price": 8.9,
+      "payments": "no Pix ou no Cartão de crédito R$ 8,96"
+    },
+    {
+      "title": "Câmera Baba Eletrônica Visão Noturna sem fio com Microfone 3 Antenas HD - YOUSEE",
+      "description": "CÂMERA SEGURANÇA WIFI IP ROBÔ 3 ANTENAS YOOSEE VISÃO NOTURNA FULL HD 360O MICROFONE ÁUDIO BABÁ ELETRÔNICA BIVOLT, imagem branco e preto, visualize o seu bebê pelo smartphone e tablet independente de exposição a luz. tecnologia inovadora com conexão Wi-Fi.",
+      "price": 127.9,
+      "payments": "no Pix ou em 2x no Cartão de crédito R$ 63,95",
+      "id": 5
+    },
+    {
+      "title": "Esteira Eletrônica Dream Fitness Concept 1600 - Dobrável Vel. Máxima 9km/h",
+      "description": "A ESTEIRA DREAM CONCEPT 1.6 oferece uma forma prática e segura de se exercitar sem sair de casa. Ela conta com 6 funções: tempo, velocidade, distância, calorias, batimentos cardíacos (com ear pulse) e tecla scan. Possui ainda 1 programa de velocidade predefinido, para você montar treinos adequados de acordo com suas necessidades e habilidades. Seja para uma caminhada leve ou uma corrida num ritmo constante, a Esteira Dream oferece conforto e segurança para você, com 3 níveis de inclinação que potencializam o exercício. Além disso, o equipamento é dobrável, facilitando o manuseio e também o armazenamento.",
+      "price": 1599.9,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 159,99",
+      "id": 6
+    },
+    {
+      "title": "'Smart TV 32” HD LED TCL S615 VA 60Hz - Android Wi-Fi e Bluetooth Google Assistente 2 HDMI",
+      "description": "A SMART TV LED 32 TCL HDR 32S615 2 HDMI é um modelo da marca TCL. As 32.0 dessa TV HD possui tecnologia LED e conta com Android. A taxa de atualização dessa TV TCL 32S615 é de 60Hz. Quanto ao áudio, a potência deste aparelho é de 16W. A TCL 32S615 conta com as entradas Fone de Ouvido P2, HDMI, LAN (Rede), USB, HDMI ARC e também tem Bluetooth, Espelhamento de Tela, Wi-Fi integrado.",
+      "price": 1127,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 112,70",
+      "id": 7
+    },
+    {
+      "title": "Smart TV 32” HD D-LED AOC 32S5135/78G VA - Wi-Fi 3 HDMI 1 USB",
+      "description": "SMART TV AOC 32 LED HD 32S5135/78 ROKU HDMI USB WI-FI é um modelo da marca AOC. As 32.0 dessa TV HD possui tecnologia LED. A taxa de atualização dessa TV 32S5135/78G é de 60Hz. Quanto ao áudio, a potência deste aparelho é de 10W. A 32S5135/78G conta com as entradas de Fone de Ouvido P2, USB, HDMI, RF, Entrada de Vídeo e Wi-Fi.",
+      "price": 1090,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 109,00",
+      "id": 8
+    },
+    {
+      "title": "Smart TV 43” 4K LED TCL 43P635 VA Wi-Fi - Bluetooth HDR Google Assistente 3 HDMI 1 USB",
+      "description": "A SMART TV LED 43 TCL 4K HDR 43P635 3 HDMI é um modelo da marca TCL. conta com Google. As 43.0 dessa TV 4K possui tecnologia LED. Os 60Hz de frequência nativa desta TV são responsáveis pela fluidez do vídeo. O som deste aparelho tem a potência de 19W. Esta TV TCL funciona com Wi-Fi integrado e também tem as entradas HDMI 2.1, LAN (Rede), USB.",
+      "price": 1750,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 175,00",
+      "id": 9
+    },
+    {
+      "title": "Smart TV 32” HD LED Semp R6500 Wi-Fi - 3 HDMI 1 USB",
+      "description": "SMART TV SEMP 32 LED HD ROKU WIFI DUAL BAND 32R6500 é um modelo da marca SEMP. Bivolt, conta com a Roku e comando de voz via dispositivo inteligente compatível. Conta com as entradas Fone de Ouvido P2, HDMI, LAN (Rede), USB, HDMI ARC e também tem Bluetooth, Wi-Fi integrado.",
+      "price": 1090,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 109,00",
+      "id": 10
+    },
+    {
+      "title": "Smart TV LG 65” 4K Quantum Dot NanoCell 65QNED80 120Hz FreeSync HDMI 2.1 ThinQ",
+      "description": "SMART TV LG 65” 4K QUANTUM DOT NANOCELL 65QNED80 é um modelo da marca LG. As 65.0 dessa TV HD possui tecnologia LED. Os 120Hz de frequência nativa desta TV são responsáveis pela fluidez do vídeo. O som deste aparelho tem a potência de 40W. Conta com as entradas Fone de Ouvido P2, HDMI, LAN (Rede), USB, HDMI ARC e também tem Bluetooth, Wi-Fi integrado.",
+      "price": 7030,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 703,00",
+      "id": 11
+    },
+    {
+      "title": "Smart TV LG 55” 4K NanoCell 55NANO75 Inteligência Artificial AI ThinQ Smart Magic Google Alexa",
+      "description": "SMART TV LG 55” 4K é um modelo da marca LG. As 55.0 dessa TV HD possui tecnologia LED. Os 120Hz de frequência nativa desta TV são responsáveis pela fluidez do vídeo. O som deste aparelho tem a potência de 40W. Conta com as entradas Fone de Ouvido P2, HDMI, LAN (Rede), USB, HDMI ARC e também tem Bluetooth, Wi-Fi integrado.",
+      "price": 2799,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 279,90",
+      "id": 12
+    },
+    {
+      "title": "Smartphone Xiaomi Note 12S 256GB - 8GB Ram",
+      "description": "NOTE 12 S. A Xiaomi traz no Smartphone Xiaomi Redmi Note 12S 8GB Ram 256GB Câmera Tripla o sistema operacional Android. A tela de tecnologia AMOLED conta com 6.43 em resolução Full HD+. O smartphone possui uma câmera frontal de 16.0 MP e um conjunto de câmeras na parte de trás, cada uma com 108.0 + 8.0 + 2.0 MP. Esse smartphone conta com uma câmera traseira que grava vídeos em Full HD, além de conter as tecnologias Câmera Tripla, Flash, HDR. Este Redmi possui uma bateria com capacidade de 5000mAh. Este Redmi é equipado com o processador Mediatek Helio G96, que tem capacidade de 2.0GHz, 2.05GHz de processamento. Este modelo de celular tem uma memória RAM de 8.0GB.",
+      "price": 1620.9,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 162,09",
+      "id": 13
+    },
+    {
+      "title": "Smartphone Xiaomi Redmi Note 12 128GB - 4GB Ram",
+      "description": "NOTE 12.  A Xiaomi traz seu modelo, o Smartphone Xiaomi Redmi Note 12 4GB RAM 128GB Câmera Tripla. Contando com o sistema operacional Android, tem tela AMOLED de 6.67, e resolução Full HD+. Com 16.56cm de altura e 7.59cm de largura e com peso de 183.5g, o modelo pode ser uma pedida para você. O celular oferece uma câmera de selfie de 13.0 MP e câmeras traseiras de 50.0 + 8.0 + 2.0 MP. Esse smartphone conta com uma câmera traseira que grava vídeos em Full HD, além de conter as tecnologias Autofoco, Câmera Tripla, Flash, HDR. Este Redmi possui uma bateria com capacidade de 5000mAh. Com o processador Qualcomm Snapdragon 685, este Xiaomi alcança até 1.9GHz, 2.8GHz de capacidade de processamento. Este modelo de celular tem uma memória RAM de 4.0GB.",
+      "price": 1380,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 138,00",
+      "id": 14
+    },
+    {
+      "title": "XIAOMI REDMI 12C 128GB - 6GB RAM",
+      "description": "Conta com sistema operacional Android e é um modelo da Xiaomi. A tela de tecnologia IPS LCD conta com 6.71. O aparelho apresenta 16.8 cm de altura e 7.64cm de largura, com peso de 192.0g. O aparelho dispõe de câmera frontal de 5.0 MP, e traseiras de 50.0 + 1.8 + 2.0 MP. A câmera traseira deste Redmi 12C filma em resolução HD. A bateria do Smartphone Redmi 12C possui capacidade de 5000mAh. Equipado com o processador MediaTek Helio G85, ele tem uma capacidade de 2.0GHz, 1.8GHzde processamento. Este modelo de celular tem uma memória RAM de 6.0GB.",
+      "price": 1999,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 199,90",
+      "id": 15
+    },
+    {
+      "title": "Smartphone Xiaomi Redmi Note 12 128GB - 4GB Ram",
+      "description": "A Xiaomi traz seu modelo, o Smartphone Xiaomi Redmi Note 12 4GB RAM 128GB Câmera Tripla. Contando com o sistema operacional Android, tem tela AMOLED de 6.67, e resolução Full HD+. Com 16.56cm de altura e 7.59cm de largura e com peso de 183.5g, o modelo pode ser uma pedida para você. O celular oferece uma câmera de selfie de 13.0 MP e câmeras traseiras de 50.0 + 8.0 + 2.0 MP. Esse smartphone conta com uma câmera traseira que grava vídeos em Full HD, além de conter as tecnologias Autofoco, Câmera Tripla, Flash, HDR. Este Redmi possui uma bateria com capacidade de 5000mAh. Com o processador Qualcomm Snapdragon 685, este Xiaomi alcança até 1.9GHz, 2.8GHz de capacidade de processamento. Este modelo de celular tem uma memória RAM de 4.0GB.",
+      "price": 1380,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 138,00",
+      "id": 16
+    },
+    {
+      "title": "Smartphone Xiaomi Pocophone Poco X5 5G 128GB 6gb Ram",
+      "description": "O SMARTPHONE XIAOMI POCOPHONE POCO X5 PRO 5G 6GB RAM 6 GB 128GB QUALCOMM ADRENO 642L 2 CHIPS ANDROID 13 conta com sistema operacional Android e é um modelo da Xiaomi. A tela de tecnologia AMOLED conta com 6.67 em resolução Full HD+. O aparelho apresenta 16.29cm de altura e 7.6cm de largura, com peso de 181.0g. O aparelho dispõe de câmera frontal de 16.0 MP, e traseiras de 108.0 + 8.0 + 2.0 MP. A câmera traseira deste Pocophone filma em resolução 4K, além de ser equipado com as tecnologias HDR. A bateria do Smartphone Xiaomi Pocophone Poco X5 Pro 5G 6GB RAM 6 GB 128GB Qualcomm Adreno 642L 2 Chips Android 13 possui capacidade de 5000mAh. Equipado com o processador Qualcomm Adreno 642L, ele tem uma capacidade de 2.4GHz, 2.2GHz, 1.8GHz de processamento. Este modelo de celular tem uma memória RAM de 6.0GB.",
+      "price": 1800,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 180,00",
+      "id": 17
+    },
+    {
+      "title": "Smartphone Xiaomi Redmi 12C 128GB - 6GB Ram",
+      "description": "Conta com sistema operacional Android e é um modelo da Xiaomi. A tela de tecnologia IPS LCD conta com 6.71. O aparelho apresenta 16.8 cm de altura e 7.64cm de largura, com peso de 192.0g. O aparelho dispõe de câmera frontal de 5.0 MP, e traseiras de 50.0 + 1.8 + 2.0 MP. A câmera traseira deste Redmi 12C filma em resolução HD. A bateria do Smartphone Redmi 12C possui capacidade de 5000mAh. Equipado com o processador MediaTek Helio G85, ele tem uma capacidade de 2.0GHz, 1.8GHzde processamento. Este modelo de celular tem uma memória RAM de 6.0GB.",
+      "price": 1099,
+      "payments": "no Pix ou em 10x no Cartão de crédito R$ 109,90",
+      "id": 18
+    }
+  ]
+}
